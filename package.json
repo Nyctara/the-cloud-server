@@ -2,7 +2,7 @@
   "name": "The Cloud",
   "version": "0.1.0",
   "description": "A bot",
-  "main": "bot.js",
+  "main": "Hotter Botter/bot.js",
   "scripts": {
     "start": "node bot.js"
   },
